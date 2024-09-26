@@ -54,7 +54,7 @@ function Manager() {
 
   const notify = (message) => {
     toast.success(message, {
-      position: "top-right",
+      position: "top-center",
     });
   };
 
