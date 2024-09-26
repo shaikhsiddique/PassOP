@@ -8,6 +8,7 @@ function App() {
   return (
     <PasswordProvider>
       <div>
+        <Navbar />
         <Manager />
         <ToastContainer />
       </div>
